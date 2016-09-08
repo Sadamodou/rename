@@ -1,0 +1,17 @@
+{
+  "name": "rename",
+  "version": "1.0.0",
+  "description": "rename",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rename"
+  ],
+  "author": "sadamodou",
+  "license": "ISC",
+  "bin": {
+        "rename": "./bin/renameFiles.ts"
+    }
+}
